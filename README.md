@@ -18,7 +18,7 @@ You can contact admin team at sinusoid'17_at_st_dot_niituniversity_dot_in
 [![Akshat Khanna](https://avatars1.githubusercontent.com/u/13203312?v=3&s=400)](https://github.com/Akshat122) | [![Prateek Jha](https://avatars2.githubusercontent.com/u/20523596?v=3&s=400)](https://github.com/PrateekJha07) | [![Shivang Shekhar](https://avatars2.githubusercontent.com/u/14253823?v=3&s=400)](https://github.com/GeekyShiva)
 ---|---|---
 [Akshat Khanna](https://github.com/Akshat122) | [Prateek Jha](https://github.com/PrateekJha07) | [Shivang Shekhar](https://github.com/GeekyShiva)
----|---|---
+
 Build Developer | Build Developer | Version Maintainer
 
 
